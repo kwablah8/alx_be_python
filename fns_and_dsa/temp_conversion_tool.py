@@ -8,7 +8,7 @@ while True:
         temperature = int(value)
         break
     else:
-        print("Invalid input. Please enter a numeric value.")
+        print("Invalid temperature. Please enter a numeric value.")
 
 tenp_scale = input("Is this temperature in Celsius or Fahrenheit? (C/F): ")
 
